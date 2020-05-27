@@ -79,7 +79,7 @@ endf
 call s:create_palette_color('brightwhite', { 'gui': '#FFFFFF', 'cterm': '231' })
 call s:create_palette_color('white',       { 'gui': '#E8E8E3', 'cterm': '252' })
 call s:create_palette_color('black',       { 'gui': '#111111', 'cterm': '234' })
-call s:create_palette_color('lightblack',  { 'gui': '#262626', 'cterm': '235' })
+call s:create_palette_color('lightblack',  { 'gui': '#303030', 'cterm': '235' })
 call s:create_palette_color('lightblack2', { 'gui': '#202424', 'cterm': '236' })
 call s:create_palette_color('darkblack',   { 'gui': '#211F1C', 'cterm': '233' })
 call s:create_palette_color('grey',        { 'gui': '#8F908A', 'cterm': '243' })
